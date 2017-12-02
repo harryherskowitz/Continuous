@@ -7,4 +7,4 @@ Controls: <br>
 "Right/Left" - Increase/Decrease line thickness<br>
 "Up/Down" - Increase/Decrease points scanned<br>
 Made with Processing 3
-![My image](fablescout.github.com/continuous/data/continuous.png)
+url:https://github.com/fablescout/continuous/blob/master/data/continuous.png
