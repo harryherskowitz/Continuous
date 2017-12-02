@@ -6,5 +6,5 @@ Controls: <br>
 "c" - Random Color<br>
 "Right/Left" - Increase/Decrease line thickness<br>
 "Up/Down" - Increase/Decrease points scanned<br>
-Made with Processing 3 | Uses video, audio, and minim libararies
+Made with Processing 3 | Uses video, sound, and minim libararies
 ![Continuous](data/continuous.png)
