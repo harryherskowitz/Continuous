@@ -7,4 +7,5 @@ Controls: <br>
 "Right/Left" - Increase/Decrease line thickness<br>
 "Up/Down" - Increase/Decrease points scanned<br>
 Made with Processing 3
+Uses video, audio, and minim libararies
 ![Continuous](data/continuous.png)
